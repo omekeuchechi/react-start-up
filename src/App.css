@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.App p{
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.table{
+  width: 100%;
+  border-collapse: collapse;
+}
